@@ -165,4 +165,4 @@
 - Output: a JSON list of objects contaning, for each record in the original orderthe following fields:
     - ACCOUNT_ID: Account ID
     - SCORE:  The propensity score indicating the likelihood that the account will add a wearable line.
- -Reference file: sample.zip.out
+- Reference file: sample.zip.out
